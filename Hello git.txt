@@ -1,0 +1,3 @@
+Hello git
+It's fucking hard to learn git
+so sad...
